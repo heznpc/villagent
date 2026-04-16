@@ -1,0 +1,12 @@
+.idea/
+.claude/
+.DS_Store
+*.iml
+CLAUDE.md
+
+# Private — strategy, research, roadmap
+TODO.md
+docs/villagent.md
+docs/action-plan.md
+docs/emergent-social-dynamics.md
+docs/self-directed-learning.md
